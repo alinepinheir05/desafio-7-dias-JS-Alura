@@ -33,4 +33,5 @@ Adicionamos a funcionalidade de remover itens da lista de compras, proporcionand
 
 ### Dia 7: Organização do Código e Calculadora
 Aprendemos sobre organização de código, funções e criamos uma calculadora simples com diferentes operações. Além da criação dos arquivos .css e .html para conseguir dar mais vida ao projeto da calculadora
+
 ![image](https://github.com/alinepinheir05/desafio-7-dias-JS-Alura/assets/90912810/b542e272-265e-462c-8702-9df511fc1bfa)
